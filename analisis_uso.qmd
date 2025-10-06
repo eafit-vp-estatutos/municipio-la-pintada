@@ -1,0 +1,23 @@
+---
+title: "Uso del suelo de La Pintada"
+format: 
+  html:
+    toc: true
+    toc-depth: 3
+    number-sections: true
+    theme: cosmo
+    smooth-scroll: true
+execute:
+  echo: false
+  warning: false
+  message: false
+params:
+  cod_dane: "05390"
+  nombre: "La Pintada"
+lang: es
+---
+
+
+## Conflicto de uso (RURAL)
+
+![](img_r1/conf_porcentajes.png)
