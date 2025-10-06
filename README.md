@@ -1,2 +1,3 @@
-# municipio-la-pintada
-Sitio web oficial del municipio de La Pintada, Departamento
+# La Pintada
+
+Proyecto de generación y análisis del Estatuto Tributario Local para La Pintada.
